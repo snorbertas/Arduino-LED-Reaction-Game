@@ -4,9 +4,9 @@
 #define MAX_LEDS 9
 
 /* LED_OFFSET is the starting pin for the first LED.
-   By default I chose MAX_LED 10 (ten LED lights).
-   This means the pins 4, 5, 6, 7, 8, 9, 10, 11, 12, 13.
-   are gonna be the 10 output pins for LED lights. */
+   By default I chose MAX_LED 9 (nine LED lights).
+   This means the pins 4, 5, 6, 7, 8, 9, 10, 11, 12.
+   are gonna be the 9 output pins for LED lights. */
 #define LED_OFFSET 4
 
 /* BUTTON_PIN is the pin for button input.
