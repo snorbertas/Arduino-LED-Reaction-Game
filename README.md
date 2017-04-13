@@ -13,4 +13,9 @@ If you want to attempt to rebuild it yourself. The default pins used in my code 
   - Digital #3: Button INPUT
   - Digital #4 to #12: LED OUTPUT
 
+Here are two screenshots on how to build it. First one is for output only, second one is for input only, need to combine both so it works. I separated them to make it easier to illustrate it since it gets so clustered.
+
+![Output](https://puu.sh/viR8t.png)
+![Input](https://puu.sh/viRRI.png)
+
 Big thanks to Andrew and his genius son who supplied me with the components to play around with and gave me a quick introduction on how Arduino works :)
